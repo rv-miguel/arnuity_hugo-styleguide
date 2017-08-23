@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/index.xml</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Utilities</title>
+      <link>/styleguide/utils/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/styleguide/utils/</guid>
+      <description>
+
+&lt;h1 id=&#34;breakpoints&#34;&gt;Breakpoints&lt;/h1&gt;
+
+&lt;h1 id=&#34;color-palette&#34;&gt;Color Palette&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Base</title>
+      <link>/styleguide/base/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/styleguide/base/</guid>
+      <description>
+
+&lt;h1 id=&#34;typography&#34;&gt;Typography&lt;/h1&gt;
+
+&lt;h2 id=&#34;headers&#34;&gt;Headers&lt;/h2&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  &lt;h1&gt;Header One&lt;/h1&gt;
+&lt;h2&gt;Header Two&lt;/h2&gt;
+&lt;h3&gt;Header Three&lt;/h3&gt;
+&lt;h4&gt;Header Four&lt;/h4&gt;
+&lt;h5&gt;Header Five&lt;/h5&gt;
+&lt;h6&gt;Header Six&lt;/h6&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;h1&amp;gt;Header One&amp;lt;/h1&amp;gt;
+&amp;lt;h2&amp;gt;Header Two&amp;lt;/h2&amp;gt;
+&amp;lt;h3&amp;gt;Header Three&amp;lt;/h3&amp;gt;
+&amp;lt;h4&amp;gt;Header Four&amp;lt;/h4&amp;gt;
+&amp;lt;h5&amp;gt;Header Five&amp;lt;/h5&amp;gt;
+&amp;lt;h6&amp;gt;Header Six&amp;lt;/h6&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;horizontal-rule&#34;&gt;Horizontal Rule&lt;/h2&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  This is a paragraph.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This is a paragraph.
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;p&amp;gt;This is a paragraph.&amp;lt;/p&amp;gt;
+&amp;lt;hr&amp;gt;
+&amp;lt;p&amp;gt;This is a paragraph.&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;paragraphs&#34;&gt;Paragraphs&lt;/h2&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  This is a paragraph.
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;p&amp;gt;This is a paragraph.&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;unordered-list&#34;&gt;Unordered List&lt;/h2&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  &lt;ul&gt;
+  &lt;li&gt;Item 1&lt;/li&gt;
+  &lt;li&gt;Item 2&lt;/li&gt;
+  &lt;li&gt;Item 3&lt;/li&gt;
+  &lt;li&gt;Item 4&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Item 1&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Item 2&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Item 3&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Item 4&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;subscripts&#34;&gt;Subscripts&lt;/h2&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  This is a paragraph with a subscript character. &lt;sub&gt;1*&lt;/sub&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;p&amp;gt;This is a paragraph with a subscript character. &amp;lt;sub&amp;gt;1*&amp;lt;/sub&amp;gt;&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;superscripts&#34;&gt;Superscripts&lt;/h2&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  This is a paragraph with a subscript character. &lt;sup&gt;1*&lt;/sup&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;p&amp;gt;This is a paragraph with a subscript character. &amp;lt;sup&amp;gt;1*&amp;lt;/sup&amp;gt;&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  This paragraph contains a &lt;a href=&#34;#&#34;&gt;Link&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;p&amp;gt;This paragraph contains a &amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Link&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  &lt;img src=&#34;http://placehold.it/200x200&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;img src=&amp;#34;http://placehold.it/200x200&amp;#34;&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;tables&#34;&gt;Tables&lt;/h1&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  &lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Table Header&lt;/th&gt;
+      &lt;th&gt;Table Header&lt;/th&gt;
+      &lt;th&gt;Table Header&lt;/th&gt;
+      &lt;th&gt;Table Header&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Table Data&lt;/td&gt;
+      &lt;td&gt;Table Data&lt;/td&gt;
+      &lt;td&gt;Table Data&lt;/td&gt;
+      &lt;td&gt;Table Data&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Table Data&lt;/td&gt;
+      &lt;td&gt;Table Data&lt;/td&gt;
+      &lt;td&gt;Table Data&lt;/td&gt;
+      &lt;td&gt;Table Data&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;table&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;Table Header&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;Table Header&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;Table Header&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;Table Header&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Table Data&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Table Data&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Table Data&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Table Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Table Data&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Table Data&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Table Data&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Table Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Components</title>
+      <link>/styleguide/components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/styleguide/components/</guid>
+      <description>
+
+&lt;h1 id=&#34;buttons&#34;&gt;Buttons&lt;/h1&gt;
+
+&lt;h2 id=&#34;normal-buttons&#34;&gt;Normal Buttons&lt;/h2&gt;
+
+&lt;div class=&#34;styleguide-example&#34;&gt;
+  &lt;div class=&#34;styleguide-example-rendered&#34;&gt;
+  &lt;button class=&#34;btn&#34;&gt;This is a button&lt;/button&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;styleguide-example-code styleguide-example-collapsed&#34;&gt;
+    &lt;pre class=&#34;styleguide-example-pre&#34;&gt;&lt;code&gt;&amp;lt;button class=&amp;#34;btn&amp;#34;&amp;gt;This is a button&amp;lt;/button&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;a class=&#34;styleguide-example-toggle&#34;&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;normal-small&#34;&gt;Normal Small&lt;/h2&gt;
+
+&lt;h2 id=&#34;normal-large&#34;&gt;Normal Large&lt;/h2&gt;
+
+&lt;h1 id=&#34;content-block&#34;&gt;Content Block&lt;/h1&gt;
+
+&lt;h1 id=&#34;grid&#34;&gt;Grid&lt;/h1&gt;
+
+&lt;h1 id=&#34;icons&#34;&gt;Icons&lt;/h1&gt;
+
+&lt;h1 id=&#34;title-bar&#34;&gt;Title Bar&lt;/h1&gt;
+
+&lt;h1 id=&#34;header&#34;&gt;Header&lt;/h1&gt;
+
+&lt;h1 id=&#34;footer&#34;&gt;Footer&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GSK Components</title>
+      <link>/styleguide/gsk-comps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/styleguide/gsk-comps/</guid>
+      <description>
+
+&lt;h1 id=&#34;hero-section&#34;&gt;Hero Section&lt;/h1&gt;
+
+&lt;h1 id=&#34;isi&#34;&gt;ISI&lt;/h1&gt;
+
+&lt;h1 id=&#34;cta-blocks&#34;&gt;CTA Blocks&lt;/h1&gt;
+
+&lt;h1 id=&#34;chat-button&#34;&gt;Chat Button&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
